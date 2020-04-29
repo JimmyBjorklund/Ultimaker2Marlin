@@ -1,4 +1,4 @@
-Marlin 3D Printer Firmware
+Marlin 3D Printer Firmware ( Bondtech DDG extrude )
 ==========================
 
 [![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=ErikZalm&url=https://github.com/ErikZalm/Marlin&title=Marlin&language=&tags=github&category=software)
